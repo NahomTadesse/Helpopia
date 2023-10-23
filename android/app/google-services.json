@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203693956818",
+    "project_id": "helpopia",
+    "storage_bucket": "helpopia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203693956818:android:ce758556bcc7074512970b",
+        "android_client_info": {
+          "package_name": "com.yeabgirma.mike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203693956818-t1qnbo34bdflknkmpvk452bh455ubute.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV-558KWkNjlUtoUbC3iYRTnEQmlfLFIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203693956818-t1qnbo34bdflknkmpvk452bh455ubute.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
